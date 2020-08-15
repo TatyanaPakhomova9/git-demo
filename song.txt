@@ -15,3 +15,5 @@ Feature2
 Some content
 
 For non-fast-forward merge
+
+Add one more line
