@@ -13,3 +13,5 @@ We added third couplet
 Feature2
 
 Some content
+
+For non-fast-forward merge
