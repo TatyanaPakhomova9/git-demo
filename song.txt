@@ -17,3 +17,5 @@ Some content
 For non-fast-forward merge
 
 Add one more line
+
+For conflict solving
